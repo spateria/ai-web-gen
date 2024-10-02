@@ -96,7 +96,7 @@ p {
 /* Header Section */
 .header {
     height: 100vh;
-    background: url('header-bg.jpg') no-repeat center center/cover;
+    background: url('https://via.placeholder.com/1920x1080?text=Header+Background') no-repeat center center/cover;
     position: relative;
 }
 
